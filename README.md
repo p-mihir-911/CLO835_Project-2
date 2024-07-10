@@ -83,4 +83,4 @@ Step 6:
 
 To test the NodePort-based application access. locating the Kubernetes node's external IP
 
-The URL {http://<externalIP>:30000} to open the program and obtain the time and location data currently shown
+The URL {http://172.23.239.167:30333} to open the program and obtain the time and location data currently shown
